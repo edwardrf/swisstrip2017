@@ -33,16 +33,16 @@ HOTEL -- one night at 7132
 
 Zurich
 ------
-21 Afternoon 1pm -- Arrive
+20 Afternoon 1pm -- Arrive
 HOTEL -- 2 nights
-23 Afternoon 3pm -- Depart for Brazel
+22 Afternoon 3pm -- Depart for Brazel
 * Le Corbusier House (Pavillon Le Corbusier)
 * Schule Leutschenbach
 
 Brzel
 -----
-23 Evening 5pm -- Arrive
-HOTEL -- 2 nights
+22 Evening 5pm -- Arrive
+HOTEL -- 3 nights
 25 Morning 9am -- Depart for Ronchamp
 * Laurenz-Stiftung Schaulager
 * Kunstmuseum Basel
